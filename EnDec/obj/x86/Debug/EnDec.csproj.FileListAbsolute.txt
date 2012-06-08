@@ -1,0 +1,9 @@
+D:\ASB\Projects\Pelindo\JSONGenerator\EnDec\EnDec\bin\Debug\EnDec.exe
+D:\ASB\Projects\Pelindo\JSONGenerator\EnDec\EnDec\bin\Debug\EnDec.pdb
+D:\ASB\Projects\Pelindo\JSONGenerator\EnDec\EnDec\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ASB\Projects\Pelindo\JSONGenerator\EnDec\EnDec\obj\x86\Debug\EnDec.Form1.resources
+D:\ASB\Projects\Pelindo\JSONGenerator\EnDec\EnDec\obj\x86\Debug\EnDec.Properties.Resources.resources
+D:\ASB\Projects\Pelindo\JSONGenerator\EnDec\EnDec\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ASB\Projects\Pelindo\JSONGenerator\EnDec\EnDec\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ASB\Projects\Pelindo\JSONGenerator\EnDec\EnDec\obj\x86\Debug\EnDec.exe
+D:\ASB\Projects\Pelindo\JSONGenerator\EnDec\EnDec\obj\x86\Debug\EnDec.pdb
